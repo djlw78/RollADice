@@ -32,6 +32,7 @@ int main(int argc, const char * argv[]) {
 
 		std::cout << "You got this many " << b + 2 << "'s : " << coolz[b] << std::endl;
 	}
+	
 	system("PAUSE"); //Not supported on mac
 	return 0;
 }
